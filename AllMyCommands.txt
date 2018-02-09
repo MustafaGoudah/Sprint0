@@ -26,3 +26,6 @@
   26  $git checkout master
   27  $git merge ReadME
   28  $git push -u origin master
+  29  $git add AllMyCommands.txt
+  30  $git commit -m "I added a new file contains all commands I used to perform the tasks"
+  40  $git push -u origin master 
