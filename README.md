@@ -1,9 +1,9 @@
-SprintO
+Sprint0
 
-this repo contains thre files which represetnt three section in the book Chacon, Scott, and
-Ben Straub. Pro Git. Apress, 2014
+this repository contains three files represent different three sections from the book  Chacon, Scott, and
+Ben Straub. Pro Git. Apress, 2014, and the file of used commands.
 
-Mustafa Goudah Abdulbarry////37-7816
+Mustafa Goudah Abdulbarry---------- 38-7816
 
 Acknowledgments (book Chacon, Scott, and Ben Straub. Pro Git. Apress,
-2014.) 
+2014.).
