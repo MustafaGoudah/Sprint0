@@ -1,0 +1,28 @@
+  1  $mkdir sprint0
+  2  $cd sprint0
+  3  $git init sprint00
+  4  $cd sprint00
+  5  $git add file1.txt
+  6  $git add file2.txt
+  7  $git add file3.txt
+  8  $git rm --cached file2.txt
+  9  $git status
+  10  $git add file2.txt
+  11  $git commit -m "I created the three files then I filled them with data and then   I added them to the staging area and after that I removed file 2 from the staging and returned it back"
+  12  $git remote add origin "https://github.com/MustafaGoudah/Sprint0.git"
+  13  $git push -u origin master
+  14  $touch README.md
+  15  $echo "SprintO
+    this repo contains thre files which represetnt three section in the book Chacon, Scott, and
+    Ben Straub. Pro Git. Apress, 2014.
+    Mustafa Goudah Abdulbarry////37-7816
+    Acknowledgments (book Chacon, Scott, and Ben Straub. Pro Git. Apress,
+    2014.) " >>README.md
+  21  $git checkout -b ReadMe
+  22  $git status
+  23  $git add README.md
+  24  $git checkout Readme
+  24  $git commit -m "here I put some information about the repo and my information and acknowledgment"
+  26  $git checkout master
+  27  $git merge ReadME
+  28  $git push -u origin master
